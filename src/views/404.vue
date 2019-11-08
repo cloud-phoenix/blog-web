@@ -1,7 +1,5 @@
 <template>
-	<div class="error">
-
-    </div>
+	<div class="error">404</div>
 </template>
 <script>
 export default {
